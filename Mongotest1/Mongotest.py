@@ -6,6 +6,9 @@ print(db)
 d ={
     "name" : "shiv",
     "email" : "shiv@gmail.com",
+    "surname":"hiremath",
+    "name" : "shiv",
+    "email" : "shiv@gmail.com",
     "surname":"hiremath"
 }
 db1 = client['mongotest']
